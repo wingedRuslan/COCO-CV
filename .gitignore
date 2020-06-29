@@ -1,0 +1,7 @@
+# ignore exercise zip file
+cv-exercise/exercise4.zip
+
+# ignore jupyter-notebook files
+.ipynb_checkpoints
+
+
